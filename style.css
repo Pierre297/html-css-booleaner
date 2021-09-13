@@ -49,3 +49,26 @@ h1 {
 .azzurro_tabella {
     background-color: lightblue;
 }
+
+
+#grey_text {
+    color: gray;
+}
+
+
+#images1 {
+    color: white;
+    padding-top: 20px;
+    background-image: url(img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+}
+
+
+#images2 {
+    color: white;
+    padding-top: 20px;
+    background-image: url(img/graph.jpg);
+    height: 200px;
+    width: 300px;
+}

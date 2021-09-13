@@ -41,6 +41,12 @@ h1 {
     background-color: yellow;
 }
 
+
+#tabella {
+   border-collapse: collapse;
+}
+
+
 #titolo_tabella {
     background-color: rgb(59, 106, 236);
 }
@@ -71,4 +77,8 @@ h1 {
     background-image: url(img/graph.jpg);
     height: 200px;
     width: 300px;
+}
+
+.margin_paragraph {
+    margin-bottom: 35px;
 }

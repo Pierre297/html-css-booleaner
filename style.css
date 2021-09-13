@@ -31,3 +31,21 @@ h1 {
     font-size: 10px;
 }
 
+
+.sottotesto_immagini {
+    font-size: 10px;
+}
+
+
+.yellow_text {
+    background-color: yellow;
+}
+
+#titolo_tabella {
+    background-color: rgb(59, 106, 236);
+}
+
+
+.azzurro_tabella {
+    background-color: lightblue;
+}

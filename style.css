@@ -1,14 +1,33 @@
 header {
     background-image: url("img/pattern.png");
-    background-repeat: repeat-x;
+    background-repeat: repeat;
     background-color: rgb(77, 129, 224);
     
 }
 
 #logo {
     width: 250px;
-    padding-top: 100px;
+    padding-top: 80px;
 }
 
 
+h1 {
+    margin-bottom: 0%;
+}
+
+
+#sottotitolo_grigio {
+    color: gray;
+}
+
+
+#sottotitolo_blue {
+    color: lightblue;
+}
+
+
+#data {
+    color: gray;
+    font-size: 10px;
+}
 

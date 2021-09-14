@@ -1,84 +1,72 @@
 header {
-    background-image: url("img/pattern.png");
-    background-repeat: repeat;
-    background-color: rgb(77, 129, 224);
-    
+  background-image: url("img/pattern.png");
+  background-size: 35% 280px;
+  background-repeat: repeat;
+  background-color: rgb(77, 129, 224);
 }
 
 #logo {
-    width: 250px;
-    padding-top: 80px;
+  width: 250px;
+  padding-top: 80px;
 }
-
 
 h1 {
-    margin-bottom: 0%;
+  margin-bottom: 0%;
 }
-
 
 #sottotitolo_grigio {
-    color: gray;
+  color: gray;
 }
-
 
 #sottotitolo_blue {
-    color: lightblue;
+  color: lightblue;
 }
-
 
 #data {
-    color: gray;
-    font-size: 10px;
+  color: gray;
+  font-size: 10px;
 }
-
 
 .sottotesto_immagini {
-    font-size: 10px;
+  font-size: 10px;
 }
-
 
 .yellow_text {
-    background-color: yellow;
+  background-color: yellow;
 }
-
 
 #tabella {
-   border-collapse: collapse;
+  border-collapse: collapse;
 }
-
 
 #titolo_tabella {
-    background-color: rgb(59, 106, 236);
+  background-color: rgb(59, 106, 236);
 }
-
 
 .azzurro_tabella {
-    background-color: lightblue;
+  background-color: lightblue;
 }
-
 
 #grey_text {
-    color: gray;
+  color: gray;
 }
-
 
 #images1 {
-    color: white;
-    padding-top: 20px;
-    background-image: url(img/monitor.jpg);
-    height: 200px;
-    width: 300px;
+  color: white;
+  padding-top: 20px;
+  background-image: url(img/monitor.jpg);
+  height: 200px;
+  width: 300px;
 }
 
-
 #images2 {
-    color: white;
-    padding-top: 20px;
-    background-image: url(img/graph.jpg);
-    height: 200px;
-    width: 300px;
+  color: white;
+  padding-top: 20px;
+  background-image: url(img/graph.jpg);
+  height: 200px;
+  width: 300px;
 }
 
 .margin_paragraph {
-    margin-bottom: 35px;
+  margin-bottom: 35px;
 }
